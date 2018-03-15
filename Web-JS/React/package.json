@@ -1,0 +1,32 @@
+{
+  "name": "react_calculator",
+  "version": "1.0.0",
+  "description": "Calculator made using React",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "babel-loader": "^7.1.4",
+    "babel-plugin-add-module-exports": "^0.1.2",
+    "babel-plugin-react-html-attrs": "^2.1.0",
+    "babel-plugin-transform-class-properties": "^6.3.13",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "6.24.1",
+    "babel-preset-react": "6.24.1",
+    "babel-preset-stage-0": "6.24.1",
+    "react": "16.2.0",
+    "react-dom": "^0.14.6",
+    "webpack": "^4.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexcraven00/calculator.git"
+  },
+  "author": "Alex Craven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexcraven00/calculator/issues"
+  },
+  "homepage": "https://github.com/Alexcraven00/calculator#readme"
+}
